@@ -1,0 +1,9 @@
+#upbody{
+    background-image: url(".././images/bluewhite-bg.webp");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+
+}

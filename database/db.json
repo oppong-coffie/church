@@ -1,0 +1,228 @@
+{
+  "users": [
+    {
+      "firstname": "Coffi",
+      "dob": "2011-03-09",
+      "org1": "yy",
+      "org2": "y",
+      "org3": "y",
+      "giving": "y",
+      "tithe": "y",
+      "presentstatus": "y",
+      "baptized": "y",
+      "datebaptized": "y",
+      "mobile": "0246414197",
+      "email": "oppongcoffie27@gmail.com",
+      "id": 1
+    },
+    {
+      "surname": "oppong",
+      "password": "5011",
+      "firstname": "Coffie",
+      "dob": "2011-03-09",
+      "org1": "pemem",
+      "org2": "youth",
+      "org3": "evengelism",
+      "giving": "855",
+      "tithe": "120",
+      "harvest": "120",
+      "presentstatus": "in church",
+      "baptized": "yes",
+      "datebaptized": "12-1-2022",
+      "mobile": "0246414197",
+      "email": "oppongcoffie27@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Saul Feeney",
+      "dateregistered": "hg",
+      "baptized": "ggh",
+      "datebaptized": "gg",
+      "occupation": "gg",
+      "organization": "ttu",
+      "password": "ooo",
+      "id": 3
+    },
+    {
+      "name": "Ata Ahenkorah",
+      "dob": "2011-03-09",
+      "mobile": "0246414197",
+      "email": "oppongcoffie27@gmail.com",
+      "dateregistered": "12-02-22",
+      "baptized": "yes",
+      "datebaptized": "12-01-2021",
+      "occupation": "farmer",
+      "org1": "ttusss",
+      "org2": "ttuss",
+      "org3": "ttuss",
+      "password": "51",
+      "id": 4
+    },
+    {
+      "name": "Ata Ahenkorah",
+      "dob": "2011-03-09",
+      "mobile": "0246414197",
+      "email": "oppongcoffie27@gmail.com",
+      "dateregistered": "12-02-22",
+      "baptized": "yes",
+      "datebaptized": "12-01-2021",
+      "occupation": "farmer",
+      "org1": "ttusss",
+      "org2": "ttuss",
+      "org3": "ttuss",
+      "password": "501",
+      "id": 5
+    },
+    {
+      "name": "kofi",
+      "dob": "2011-03-09",
+      "mobile": "0246414197",
+      "email": "oppongcoffie27@gmail.com",
+      "dateregistered": "12-02-22",
+      "baptized": "yes",
+      "datebaptized": "12-01-2021",
+      "occupation": "farmer",
+      "org1": "ttu",
+      "org2": "ttu",
+      "org3": "ttu",
+      "password": "invoicesystem",
+      "id": 6
+    },
+    {
+      "surname": "oppong",
+      "firstname": "janet",
+      "mobile": "0246414197",
+      "email": "oppongcoffie27@gmail.com",
+      "password": "555",
+      "id": 7
+    }
+  ],
+  "admins": [
+    {
+      "userId": 1,
+      "surname": "coffie",
+      "lastName": "Lee",
+      "phoneNumber": "123456",
+      "emailAddress": "krish.lee@learningcontainer.com",
+      "password": "5033"
+    }
+  ],
+  "upcoming": [
+    {
+      "date": "12/12/20",
+      "program": "party",
+      "time": "7:23",
+      "id": 1
+    },
+    {
+      "datee": "12/12/20",
+      "program": "party2",
+      "time": "7:23",
+      "id": 2
+    }
+  ],
+  "postponed": [
+    {
+      "date": "12/12/20",
+      "program": "party2",
+      "time": "7:23",
+      "id": 1
+    }
+  ],
+  "ongoing": [
+    {
+      "program": "Opening prayer",
+      "mc": "worship",
+      "preacher": "Praises",
+      "topic": "Offering",
+      "verse": "Preaching"
+    }
+  ],
+  "programlist": [
+    {
+      "preacher": "Pastor Oppong",
+      "verse": "John3:13",
+      "topic": "The birth of Jesus Christ",
+      "mc": "Elder Mireku",
+      "list1": "Opening Prayer",
+      "list2": "Worship",
+      "list3": "Praises",
+      "list4": "Offering",
+      "id": 2
+    }
+  ],
+  "finances": [
+    {
+      "giving": "6666",
+      "tithes": "777",
+      "harvest": "566",
+      "id": 1
+    }
+  ],
+  "others": [
+    {
+      "members": "100",
+      "visitors": "100",
+      "assets": "100",
+      "id": 1
+    },
+    {
+      "members": "100",
+      "visitors": "100",
+      "assets": "100",
+      "id": 2
+    }
+  ],
+  "leaders": [
+    {
+      "namea": "Pastor Oppong",
+      "nameb": "Elder Mireku",
+      "namec": "Elder Oppong",
+      "named": "Elder Coffie",
+      "namee": "Elder Kwame"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "PENSA"
+    },
+    {
+      "name": "Youth"
+    },
+    {
+      "name": "Womens'"
+    },
+    {
+      "name": "PEMEN"
+    },
+    {
+      "name": "Children"
+    }
+  ],
+  "membersfinances": [
+    {
+      "name": "Oppong Coffie",
+      "giving": "120",
+      "tithe": "520",
+      "harvest": "665",
+      "id": 5
+    },
+    {
+      "name": "Oppong Coffie",
+      "dob": "ghg",
+      "dateregistered": "hg",
+      "baptized": "ggh",
+      "datebaptized": "gg",
+      "occupation": "gg",
+      "organization": "gg",
+      "id": 2
+    },
+    {
+      "name": "kofi",
+      "tithe": "00",
+      "giving": "00",
+      "harvest": "00",
+      "id": 6
+    }
+  ]
+}
